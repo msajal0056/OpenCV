@@ -1,2 +1,2 @@
 # OpenCV
-This repository contains different codes on OpenCv in python for Computer Vision.
+This repository contains different codes for Computer Vision in Python using OpenCV.
